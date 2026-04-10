@@ -36,6 +36,10 @@ Note: The dataset is synthetic and designed to reflect real-world MEAL structure
 - North Darfur is the best-performing state
 - West Kordofan is the lowest-performing state
 
+# 📈 Visualization
+
+![Sector Performance](sector_performance.png)
+
 # 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
