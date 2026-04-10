@@ -42,6 +42,7 @@ This chart shows average performance across sectors.
 
 ![Sector Performance](sector_performance.png)
 
+
 # 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
