@@ -38,6 +38,8 @@ Note: The dataset is synthetic and designed to reflect real-world MEAL structure
 
 # 📈 Visualization
 
+The chart below shows the average performance across different humanitarian sectors.
+
 ![Sector Performance](sector_performance.png)
 
 # 🛠️ Tools Used
