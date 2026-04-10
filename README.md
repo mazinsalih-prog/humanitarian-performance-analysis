@@ -36,11 +36,13 @@ Note: The dataset is synthetic and designed to reflect real-world MEAL structure
 - North Darfur is the best-performing state
 - West Kordofan is the lowest-performing state
 
-# 📈 Visualization
+# 📊 Visualization
 
-The chart below shows the average performance across different humanitarian sectors.
+This chart shows average performance across sectors.
 
-![Sector Performance](sector_performance.png)
+<p align="center">
+  <img src="sector_performance.png" width="600">
+</p>
 
 # 🛠️ Tools Used
 - Python (Pandas)
