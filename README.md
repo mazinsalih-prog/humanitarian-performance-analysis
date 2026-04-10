@@ -3,6 +3,20 @@ Data analysis project assessing humanitarian program performance across sectors 
 
 # Multi-Sector Humanitarian Program Performance Analysis
 
+## 📌 Key Insights
+
+- 50% of indicators are On Track
+- 30% require attention
+- 20% are critical
+
+### Sector Performance
+- Health sector shows the strongest performance
+- FSL sector shows the weakest performance and requires attention
+
+### Geographic Performance
+- North Darfur is the best-performing state
+- West Kordofan is the lowest-performing state
+
 # 📖 Overview
 This project analyzes the performance of a multi-sector humanitarian program across different states and sectors. The objective is to assess achievement against targets, identify underperforming areas, and support data-driven decision-making.
 
