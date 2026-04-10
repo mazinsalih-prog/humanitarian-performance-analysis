@@ -60,6 +60,19 @@ This chart shows average performance across sectors.
 
 ![Status Distribution](status_distribution.png)
 
+## 📁 Project Structure
+- `Projects_Data_set.xlsx` → Source data  
+- `Projects_Data_set.ipynb` → Analysis notebook  
+- `sector_performance.png` → Visualization  
+- `README.md` → Project documentation  
+
+## 🛠 Skills Demonstrated
+- Data Cleaning & Preparation (Pandas)
+- Data Analysis & Aggregation
+- Data Visualization (Matplotlib)
+- Performance Analysis (KPIs & Indicators)
+- GitHub Project Documentation
+
 # 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
