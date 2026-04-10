@@ -1,4 +1,4 @@
-# humanitarian-performance-analysis
+# humanitarian-data-analysis-python
 Data analysis project assessing humanitarian program performance across sectors and states using Python.
 
 # Multi-Sector Humanitarian Program Performance Analysis
