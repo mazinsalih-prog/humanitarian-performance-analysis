@@ -40,9 +40,7 @@ Note: The dataset is synthetic and designed to reflect real-world MEAL structure
 
 This chart shows average performance across sectors.
 
-<p align="center">
-  <img src="sector_performance.png" width="600">
-</p>
+![Sector Performance](./sector_performance.png)
 
 # 🛠️ Tools Used
 - Python (Pandas)
