@@ -32,6 +32,8 @@ This chart shows average performance across sectors.
 - Performance Analysis (KPIs & Indicators)
 - GitHub Project Documentation
 
+  This project demonstrates key data analysis and reporting skills relevant to humanitarian program monitoring.
+
 # 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
