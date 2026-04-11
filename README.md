@@ -22,6 +22,8 @@ This chart shows average performance across sectors.
 
 ![Status Distribution](status_distribution.png)
 
+![Dashboard](Humanitarian Program Performance Dashboard.png)
+
 ## 📁 Project Structure
 - `Projects_Data_set.xlsx` → Source data  
 - `Projects_Data_set.ipynb` → Analysis notebook  
