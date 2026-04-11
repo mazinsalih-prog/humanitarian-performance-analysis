@@ -1,51 +1,40 @@
-# humanitarian-data-analysis-python
-Data analysis project assessing humanitarian program performance across sectors and states using Python.
+# Humanitarian Program Performance Analysis
 
-# Multi-Sector Humanitarian Program Performance Analysis
+## 📊 Overview
+This project analyzes humanitarian program performance across sectors, states, and donors using Python and Power BI.
 
-## 📖 Project Overview
-This project analyzes humanitarian program performance across multiple sectors and states.  
-It focuses on tracking key indicators, identifying performance gaps, and highlighting areas requiring attention for better program decision-making.
+## 🎯 Objectives
+- Assess performance across sectors
+- Identify top and underperforming states
+- Provide data-driven insights for decision-making
 
-## 📌 Key Insights
-- 50% of indicators are On Track, indicating moderate overall program performance
-- 30% require attention, suggesting targeted intervention is needed
-- 20% are critical, highlighting areas of significant underperformance
-
-## 📊 Visualization
-
-This chart shows average performance across sectors.
-
-<p align="center">
-  <img src="sector_performance.png" width="700">
-</p>
-
-![Status Distribution](status_distribution.png)
-
-![Dashboard](dashboard.png)
-
-## 📁 Project Structure
-- `Projects_Data_set.xlsx` → Source data  
-- `Projects_Data_set.ipynb` → Analysis notebook  
-- `sector_performance.png` → Visualization  
-- `README.md` → Project documentation  
-
-## 🛠 Skills Demonstrated
-- Data Cleaning & Preparation (Pandas)
-- Data Analysis & Aggregation
-- Data Visualization (Matplotlib)
-- Performance Analysis (KPIs & Indicators)
-- GitHub Project Documentation
-
-  This project demonstrates key data analysis and reporting skills relevant to humanitarian program monitoring.
-
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
+- Power BI
 - Matplotlib
 
-# 🛡️ Ethical Considerations
-This project uses synthetic data designed to replicate humanitarian program structures while ensuring data protection and ethical compliance.
+## 📁 Dataset
+The dataset includes:
+- Project information
+- Indicators
+- Beneficiaries
+- Activities
 
-## 📢 Conclusion
-The analysis highlights key performance gaps across sectors and geographic areas, supporting data-driven decision-making for improving humanitarian program effectiveness.
+## 📈 Key Insights
+- Health sector shows the strongest performance
+- FSL sector requires urgent attention
+- North Darfur is the best-performing state
+- West Kordofan shows lowest performance
+
+## 📊 Dashboard
+![Dashboard](dashboard.png)
+
+## 🚀 How to Use
+1. Open the notebook (`.ipynb`)
+2. Run the analysis
+3. Open Power BI file to explore dashboard
+
+## 👤 Author
+Mazin Salih  
+Monitoring & Evaluation Officer | PMP
