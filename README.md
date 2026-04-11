@@ -8,6 +8,12 @@ This project analyzes humanitarian program performance across sectors, states, a
 - Identify top and underperforming states
 - Provide data-driven insights for decision-making
 
+  ## 💡 Business Value
+This analysis helps humanitarian organizations:
+- Improve program efficiency
+- Identify gaps in implementation
+- Support evidence-based decision making
+
 ## 🛠️ Tools Used
 - Python (Pandas)
 - Google Colab
